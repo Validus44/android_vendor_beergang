@@ -20,5 +20,3 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     Stk
 
-# Inherit media effect blobs
--include vendor/beergang/products/common_media_effects.mk
