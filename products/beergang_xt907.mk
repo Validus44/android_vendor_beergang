@@ -5,7 +5,7 @@ $(call inherit-product, device/motorola/xt907/full_xt907.mk)
 $(call inherit-product, vendor/beergang/products/common.mk)
 
 # Setup device specific product configuration.
-PRODUCT_NAME := aosp_xt907
+PRODUCT_NAME := beergang_xt907
 PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := xt907
 PRODUCT_MODEL := Razr M
